@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi 👋, I'm Harish Mestha</h1>
-<h3 align="center">Automation Test Lead (SDET)</h3>
+<h3 align="center">Automation Test Lead</h3>
 
 - 🔭 I’m currently working on Web, API and Mobile Automation, Functional/Non Functional (Performance Testing), DataBase & DevOps
 - 🌱 I’m currently learning Cypress
