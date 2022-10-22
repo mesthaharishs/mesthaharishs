@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Cypress
 - 👯 I’m looking to collaborate on **Automation framework design and development**
 - 💬 Ask me about **Selenium, Appium, Rest Assured, Cucumber, DevOps (Jenkins, Docker)**
-- 📫 How to reach me **https://www.linkedin.com/in/harish-s-mestha-0691b9245**
+- 📫 How to reach me **https://www.linkedin.com/in/harish-s-mestha**
 
 <!--
 **mesthaharishs/mesthaharishs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harish-s-mestha-0691b9245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harish-Mestha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harish-s-mestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harish-Mestha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
