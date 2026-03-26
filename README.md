@@ -4,7 +4,7 @@
 
 - 🔭 Automation Lead/Architect - SDET with deep expertise in end-to-end Quality Engineering, specializing in  Functional and Non-Functional testing, Web and Mobile Automation, API & Backend Automation, Database validation, DevOps-aligned QE, and AI-driven testing strategies
 - 🌱 Expertise in designing and scaling enterprise-grade automation frameworks, modernizing QE practices, and leveraging Generative AI, LLMs, Agentic AI, and Model Context Protocol (MCP) to improve test design, execution efficiency, defect prediction, and overall product quality.
-- 👯 I’m looking to collaborate on **Automation framework design and development**
+- 👯 I’m looking to collaborate on **Integrate AI in QE, Build Robust and Scalable Automation framework design and development**
 - 💬 Ask me about **Agentic QE, Gen AI/AI implementation in QE Process, Automation, Playwright, Selenium, Appium, Rest Assured, Cucumber, DevOps (Jenkins, Docker)**
 - 📫 How to reach me **https://www.linkedin.com/in/harish-s-mestha**
 
